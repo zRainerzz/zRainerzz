@@ -1,7 +1,36 @@
 <h1 align="center">Hi 👋, I'm Ghaith Khedhri</h1>
 <h3 align="center">Cybersecurity Enthusiast | Ethical Hacker | Python & Django Developer | GUI Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zrainerzz" alt="zrainerzz" /></a> </p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=zrainerzz&theme=onedark&row=1&column=6" alt="zrainerzz trophies" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&color=%2336BCF7&size=20&center=true&vCenter=true&width=600&lines=Cybersecurity+Enthusiast;Ethical+Hacker;Python+%26+Django+Developer;GUI+Developer" alt="Typing animation">
+</p>
+
+- 🔭 **Currently working on:** Tkinter GUIs, Django backend, and cybersecurity projects.
+
+- 🌱 **Currently learning:** Advanced penetration testing tools, OSINT techniques, and refining Django development skills.
+
+- 👯 **Open to collaborate on:** Python projects, GUI development, Django backend, and ethical hacking.
+
+- 🤝 **Looking for help with:** Advanced penetration testing techniques and scaling web development with Django.
+
+- 👨‍💻 **Some of my projects are available at:** [https://github.com/zRainerzz](https://github.com/zRainerzz)
+
+- 📝 **I regularly write articles on:** [Cybersecurity topics, ethical hacking techniques, Python programming, and GUI development.](https://github.com/zRainerzz)
+
+- 💬 **Ask me about:** Ethical hacking, Python development, GUI applications with Tkinter, and cybersecurity best practices.
+
+- 📫 **How to reach me:** ghaithkhedhri3@gmail.com
+
+- 📄 **Know about my experiences:** Hands-on experience with ethical hacking, penetration testing, developing Python tools, Tkinter GUIs, Django, and Linux.
+
+- ⚡ **Fun fact:** I do good deeds but I don't know how to reply when people thank me.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
